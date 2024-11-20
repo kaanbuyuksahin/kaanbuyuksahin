@@ -3,15 +3,13 @@
  I'm Kaan Büyükşahin, 26 years old and currently studying Medical Engineering at the Technical University of Darmstadt.
 
 ### 👀 Interests
-- **Software Development**
-- **Image Processing**
-- **Visual Computing**
-- **Machine Learning**
-- **Artificial Intelligence In Medicine And Healthcare**
-- **Augmented Vision**
-- **Signal Processing**
-- **3D Scanning And Motion Capture**
-- **Clinical Applications Of Brain Imaging, Stimulation, And Modeling**
+
+Software Development
+Signal & Image Processing
+Visual Computing & Machine Learning
+AI in Healthcare & Augmented Vision
+3D Scanning & Motion Capture
+Clinical Applications of Brain Imaging & Stimulation
 
 ### 📫 How to Reach Me
 - **Email**:
