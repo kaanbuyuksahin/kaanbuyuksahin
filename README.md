@@ -16,7 +16,7 @@ Hello, I'm Kaan Büyükşahin, 26 years old and currently studying Medical Engin
 
 #### 🎼 Other Interests
 - Playing Piano
-- MT & BJJ
+- Fitness, MT & BJJ
 - Reading Books
 - Visiting Orchestra, Opera And Theatre
 - Traveling
