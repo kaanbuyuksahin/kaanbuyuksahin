@@ -1,6 +1,4 @@
-### 🌷 Hello,
-
- I'm Kaan Büyükşahin, 26 years old and currently studying Medical Engineering at the Technical University of Darmstadt.
+Hello, I'm Kaan Büyükşahin, 26 years old and currently studying Medical Engineering at the Technical University of Darmstadt.
 
 ### 👀 Interests
 
