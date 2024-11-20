@@ -1,6 +1,6 @@
 Hello, I'm Kaan Büyükşahin, 26 years old and currently studying Medical Engineering at the Technical University of Darmstadt.
 
-### 👀 Interests
+#### 👀 Interests
 
 - Software Development
 - Signal & Image Processing
@@ -9,12 +9,12 @@ Hello, I'm Kaan Büyükşahin, 26 years old and currently studying Medical Engin
 - 3D Scanning & Motion Capture
 - Clinical Applications of Brain Imaging & Stimulation
 
-### 📫 How to Reach Me
+#### 📫 How to Reach Me
 - **Email**:
 - **LinkedIn**: [linkedin.com/in/kaanbs](https://www.linkedin.com/in/kaanbs/)
 - **Portfolio**: [www.kaanbs.com](http://www.kaanbs.com)
 
-### 🎼 Other Interests
+#### 🎼 Other Interests
 - Playing Piano
 - MT & BJJ
 - Reading Books
