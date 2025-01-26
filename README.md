@@ -5,8 +5,7 @@ Hello, I'm Kaan Büyükşahin, 26 years old and currently studying Medical Engin
 - Software Development
 - Signal & Image Processing
 - Visual Computing & Machine Learning
-- AI in Healthcare & Augmented Vision
-- 3D Scanning & Motion Capture
+- AI in Healthcare 
 
 #### 📫 How to Reach Me
 - **Email**:
